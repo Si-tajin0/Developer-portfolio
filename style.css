@@ -6,6 +6,12 @@ body {
 h1 {
     font-size: 50px;
 }
+h2 {
+    font-size: 40px;
+}
+section {
+    margin-bottom: 20px;
+}
 .flex-container {
     display: flex;
     text-align: justify;
@@ -29,4 +35,9 @@ h1 {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
